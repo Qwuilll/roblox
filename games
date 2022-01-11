@@ -40,7 +40,7 @@ end
 if game.PlaceId == 3623096087 then --Muscle Legends
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/BoaHacker/ROBLOX/main/Games/Muscle-Legends', true))()
 end
-if game.PlaceId == 6284583030 or game.PlaceId = 7722306047 then --Pet Simulator X and Trading Plaza
+if game.PlaceId == 6284583030 or game.PlaceId == 7722306047 then --Pet Simulator X and Trading Plaza
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/Qwuilll/pet-sim/main/test', true))()
 end
 if game.PlaceId == 7577073048 then --Red Light, Green Light
